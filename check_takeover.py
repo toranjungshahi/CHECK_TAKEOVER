@@ -139,7 +139,7 @@ def match_CNAME_git(subdomain):
         
     return False #Return false if the subdomain does not match with any of the buckets
 
-#Check if the subdomain is vulnerable in AWS
+#Check if the subdomain is vulnerable in GitHub
 def check_availability_git(source_domain):
     source_domain = 'https://' + source_domain
     
