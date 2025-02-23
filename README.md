@@ -11,6 +11,7 @@ is used to gather open source intelligence (OSINT) on a company or domain.
 ## Installation/Usage
 
 Clone the **theHarvester** tool from https://github.com/laramies/theHarvester into working directory.
+
 Install requirements by running:
 ```
  !pip install -r requirements.txt
