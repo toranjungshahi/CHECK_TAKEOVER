@@ -29,7 +29,7 @@ FILENAME is the name of the file to save list of subdomains. If none given, save
 
 A successful run would look like below screenshot. Ignore other files in file explorer window.
 
-![Screenshot of successful run of the tool](images/example run.png)
+![Screenshot of successful run of the tool](./images/example run.png)
 
 ## Future Improvements
 
